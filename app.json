@@ -1,7 +1,7 @@
 {
-  "name": "جيبثون العرب",
+  "name": "سورس ابو عسل",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/1b4a133e03c9e21d100be.jpg",
+  "logo": "https://telegra.ph/file/723ce91f8e6eb506c0c89.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -60,7 +60,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس لا تغيره ابدا",
-      "value": "jepthoniq",
+      "value": "https://github.com/aasszzxx1/abo3sl",
       "required": false
     }
   },
